@@ -17,11 +17,11 @@ Example: python3 SissyDC.py DCSync.txt
 ```
 Save the DCSync file as txt file.
 ```
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/rentixeli/SissyDC/main/Images/dcsync.png)
 # 2) Run
 ```
 python3 SissyDC.py DCSync.txt
 ```
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/rentixeli/SissyDC/main/Images/run.png)
 # 3) Enjoy
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/rentixeli/SissyDC/main/Images/done.png)
