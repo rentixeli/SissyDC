@@ -1,6 +1,6 @@
 ### What the fudge?
 ```
-Well SissyDC will take a DCSync file and will divide it to 3 files.
+Well SissyDC will take a DCSync file and divide it to 3 files.
 Usernames-DC.txt - Usernames only.
 NTLMs-Only-DC.txt - NTLMs only ----> hashcat -m 1000 NTLMs-Only-DC.txt /usr/share/wordlists/rockyou.txt
 Combined-DC.txt - A combination of Usernames + their NTLM hash.
